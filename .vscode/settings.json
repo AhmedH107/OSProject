@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "syscall-nr.h": "c",
+    "vaddr.h": "c",
+    "off_t.h": "c"
+  }
+}
